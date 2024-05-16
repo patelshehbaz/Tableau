@@ -76,7 +76,7 @@ This project focuses on analyzing and visualizing bank loan data to derive meani
 
 ![Overview](https://drive.google.com/uc?export=view&id=1TE5ezJQirCMCr8lN0deRWsZBFVIm8siA)
 
-![Details](https://drive.google.com/file/d/13yhFXrs4OpWA4yZ5w4rEWXzQ8Zn6yUG5)
+![Details](https://drive.google.com/file/d/13yhFXrs4OpWA4yZ5w4rEWXzQ8Zn6yUG5/view?usp=sharing)
 
 ### Data Sources
 
