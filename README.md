@@ -74,7 +74,7 @@ This project focuses on analyzing and visualizing bank loan data to derive meani
 
 ![SUMMARY](/Users/shehbazpatel/Documents/Ineuron_Projects/Data_analyst_Project/Tableau_image/summary.jpg)
 
-(https://drive.google.com/file/d/1TE5ezJQirCMCr8lN0deRWsZBFVIm8siA/view?usp=share_link)
+https://drive.google.com/uc?export=view&id=1TE5ezJQirCMCr8lN0deRWsZBFVIm8siA
 
 (https://drive.google.com/file/d/13yhFXrs4OpWA4yZ5w4rEWXzQ8Zn6yUG5/view?usp=share_link)
 
