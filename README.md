@@ -4,6 +4,12 @@
 
 This project focuses on analyzing and visualizing bank loan data to derive meaningful insights and support data-driven decision-making. The project involves creating a comprehensive Bank Loan Report, including key performance indicators (KPIs), visual representations, and detailed loan data analysis.
 
+![Summary](https://drive.google.com/uc?export=view&id=1-A9UrtP4nm8SR8gV79kKOnJ5eH2TySlh)
+
+![Overview](https://drive.google.com/uc?export=view&id=1TE5ezJQirCMCr8lN0deRWsZBFVIm8siA)
+
+![Details](https://drive.google.com/uc?export=view&id=13yhFXrs4OpWA4yZ5w4rEWXzQ8Zn6yUG5)
+
 ### Techstack
 
 1. Excel
@@ -71,12 +77,6 @@ This project focuses on analyzing and visualizing bank loan data to derive meani
 - **Employee Length Analysis**: Bar chart showing loan metrics by employment length.
 - **Loan Purpose Breakdown**: Bar chart showing loan metrics by loan purpose.
 - **Home Ownership Analysis**: Tree map displaying loan metrics by home ownership status.
-
-![Summary](https://drive.google.com/uc?export=view&id=1-A9UrtP4nm8SR8gV79kKOnJ5eH2TySlh)
-
-![Overview](https://drive.google.com/uc?export=view&id=1TE5ezJQirCMCr8lN0deRWsZBFVIm8siA)
-
-![Details](https://drive.google.com/uc?export=view&id=13yhFXrs4OpWA4yZ5w4rEWXzQ8Zn6yUG5)
 
 ### Data Sources
 
