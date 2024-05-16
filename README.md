@@ -72,7 +72,7 @@ This project focuses on analyzing and visualizing bank loan data to derive meani
 - **Loan Purpose Breakdown**: Bar chart showing loan metrics by loan purpose.
 - **Home Ownership Analysis**: Tree map displaying loan metrics by home ownership status.
 
-![Alt text](https://drive.google.com/file/d/1-A9UrtP4nm8SR8gV79kKOnJ5eH2TySlh/view?usp=share_link)
+![SUMMARY](/Users/shehbazpatel/Documents/Ineuron_Projects/Data_analyst_Project/Tableau_image/summary.jpg)
 
 (https://drive.google.com/file/d/1TE5ezJQirCMCr8lN0deRWsZBFVIm8siA/view?usp=share_link)
 
